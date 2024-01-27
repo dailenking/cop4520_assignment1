@@ -2,4 +2,4 @@
 
 g++ -std=c++14 -o "name-of-execution-file" assignment1.cpp
 
-./ "name-of-execution-file"
+./"name-of-execution-file"
